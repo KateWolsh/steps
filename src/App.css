@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+}
+
+.distance_format {
+  margin-left: 30px;
+}
+
+.btn_ok {
+  margin-left: 30px;
+  width: 70px;
+  height: 25px;
+  margin-top: 48px;
+}
+
+.items {
+
+}
+
+.container_item {
+  display: flex;
+  justify-content:space-between;
+  width: 460px;
+  padding: 5px 10px 5px 10px;
+  margin-top: 20px;
+  border: solid 1px black;
+  border-radius: 5px;
+}
+
+.symbols {
+  display: flex;
+  padding: 10px;
+}
+
+.close {
+  margin-left: 20px;
+}
